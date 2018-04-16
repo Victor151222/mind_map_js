@@ -1,6 +1,6 @@
 ### JavaScript DOM基本操作
 
-![JavaScript DOM基本操作](images/JavaScript DOM基本操作.gif)
+![JavaScriptDOM基本操作](images/JavaScriptDOM基本操作.gif)
 
 ### JavaScript变量
 
